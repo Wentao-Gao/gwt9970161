@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a PhD student in University of South Australia
-- 👀 I’m interested in ML MV DL, But now I am working on optimal control and reinforcement learning in robotics.
-- 🌱 I’ve gradated from the university of bristol and doing an intern in Tencent Robotics-X.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m a PhD student .
+- 👀 I’m interested in ML MV DL, But I have an internship working on optimal control and reinforcement learning in robotics. I will be doing Data Science research this year later.
+- 🌱 I got my Master Degree in the University of Bristol and now I am a PhD student in the University of South Australia.
+- 💞️ I’m looking to collaborate on Data science and an Intern in DS.
 - ***请不要相信，胜利就像山坡上的蒲公英一样唾手可得；但请相信，世上总有一些美好值得我们全力以赴，哪怕粉身碎骨。***
 - 📫 How to reach me
 email: gwt9970161@163.com
